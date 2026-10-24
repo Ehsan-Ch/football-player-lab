@@ -20,7 +20,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Exceptions: motion_lab/detector.py and model-related upstream material are
-Apache-2.0 licensed; see models/LICENSE-YOLOX.txt. KITTI-derived images,
-annotations and screenshots are CC BY-NC-SA 3.0, not covered by this MIT
-license. See ATTRIBUTION.md before reuse.
+This license covers original project code and documentation only. StatsBomb
+data, rights in derived analysis, and the StatsBomb logo are subject to the
+provider's terms and are not relicensed here. See ATTRIBUTION.md before reuse.

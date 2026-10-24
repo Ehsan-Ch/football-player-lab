@@ -2,6 +2,14 @@
 
 Validated locally on 24 October 2026.
 
+## GitHub verification
+
+Release commit: `0db35060f5cbc1aa43e170c885fcaeca50cc345c`.
+
+[GitHub test run](https://github.com/Ehsan-Ch/football-player-lab/actions/runs/40081709153): **all three jobs passed** — Python 3.11, Python 3.12 and Node browser-math. All 24 published file hashes were checked against the staged local files.
+
+[Pages deployment](https://github.com/Ehsan-Ch/football-player-lab/actions/runs/40081719027) succeeded. The [public HTTPS preview](https://ehsan-ch.github.io/football-player-lab/) was opened and its final-match filter verified in the browser, with no console errors or warnings.
+
 ## Automated checks
 
 - **18 Python tests passed**, including period lengths, extra time, substitutions, tactical shifts, on-pitch/bench dismissals, shootout exclusion, spatial boundaries, progressions, rates and ties.
